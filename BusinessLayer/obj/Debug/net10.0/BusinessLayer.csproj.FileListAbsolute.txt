@@ -1,0 +1,17 @@
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\BusinessLayer.deps.json
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\BusinessLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\BusinessLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\DataBaseLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\ModelLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\DataBaseLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\bin\Debug\net10.0\ModelLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\Business.EA331CBA.Up2Date
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\refint\BusinessLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\ref\BusinessLayer.dll
