@@ -1,0 +1,16 @@
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\bin\Debug\net8.0\ModelLayer.deps.json
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\bin\Debug\net8.0\ModelLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\bin\Debug\net8.0\ModelLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\bin\Debug\net8.0\DataBaseLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\bin\Debug\net8.0\DataBaseLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.sourcelink.json
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.csproj.Up2Date
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\refint\ModelLayer.dll
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ModelLayer.pdb
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\ModelLayer\obj\Debug\net8.0\ref\ModelLayer.dll

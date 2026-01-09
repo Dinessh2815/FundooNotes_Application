@@ -1,0 +1,9 @@
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\PresentationLayer.Fundoo\obj\Debug\net10.0\PresentationLayer.Fundoo.sourcelink.json

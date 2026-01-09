@@ -1,4 +1,5 @@
 ﻿using BusinessLayer.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ModelLayer.DTOs.Auth;
 
@@ -22,5 +23,20 @@ namespace FundooNotes.Controllers
             await _authService.RegisterAsync(request);
             return Ok(new { message = "User Registered Sucessfully" });
         }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(LoginRequestDto request)
+        {
+            var response = await _authService.LoginAsync(request);
+            return Ok(response);
+        }
+
+        [Authorize]
+        [HttpGet("me")]
+        public IActionResult Me()
+        {
+            return Ok("JWT is valid");
+        }
+
     }
 }

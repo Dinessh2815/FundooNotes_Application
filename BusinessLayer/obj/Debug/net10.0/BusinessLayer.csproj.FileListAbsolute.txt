@@ -10,6 +10,7 @@ C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\Business
 C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.AssemblyInfoInputs.cache
 C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.AssemblyInfo.cs
 C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.sourcelink.json
 C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\Business.EA331CBA.Up2Date
 C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\BusinessLayer.dll
 C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\BusinessLayer\obj\Debug\net10.0\refint\BusinessLayer.dll

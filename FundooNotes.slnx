@@ -1,6 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="BusinessLayer/BusinessLayer.csproj" />
   <Project Path="DataBaseLayer/DataBaseLayer.csproj" />
-  <Project Path="FundooNotes/FundooNotes.csproj" />
   <Project Path="ModelLayer/ModelLayer.csproj" />
+  <Project Path="PresentationLayer.Fundoo/PresentationLayer.Fundoo.csproj" Id="1e1fa8a1-a6ba-4649-8beb-d9d46e8fec04" />
 </Solution>
