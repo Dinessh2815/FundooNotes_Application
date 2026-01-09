@@ -1,9 +1,0 @@
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.csproj.AssemblyReference.cache
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.AssemblyInfoInputs.cache
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.AssemblyInfo.cs
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.csproj.CoreCompileInputs.cache
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Windows 11\Documents\DotNet-Training\FundooProject\FundooNotes\FundooNotes\obj\Debug\net10.0\FundooNotes.sourcelink.json
