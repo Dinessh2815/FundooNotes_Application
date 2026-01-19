@@ -68,7 +68,7 @@ namespace BusinessLayer.Services
             await _userRepository.UpdateAsync(user);
 
             var resetLink =
-                $"https://localhost:7278/api/auth/reset-password?token={user.ResetPasswordToken}";
+                $"http://localhost:4200/reset-password?token={user.ResetPasswordToken}";
 
             await _emailService.SendEmailAsync(
                 user.Email,
